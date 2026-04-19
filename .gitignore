@@ -1,0 +1,11 @@
+# Fichiers système macOS 
+.DS_Store 
+ 
+# Fichiers VS Code 
+.vscode/ 
+ 
+# Fichiers temporaires Windows 
+Thumbs.db 
+ 
+# Dossiers de dépendances (pour plus tard) 
+node_modules/
